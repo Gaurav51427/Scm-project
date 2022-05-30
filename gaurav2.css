@@ -1,0 +1,142 @@
+body {
+    margin-top:20px;
+    margin-left:10px;
+    background-color:white;
+}
+form {
+    
+    display:inline;
+    margin-top: 0px;
+    margin-bottom:100px;
+    
+}
+.cato {
+    display:inline;
+    border-radius:10%
+}
+H3 {
+    background-color:salmon;
+}
+footer {
+
+    background-color: salmon;
+    height:150px;
+    width:100%;
+}
+.gh {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:mistyrose;
+    
+}
+.it {
+    margin-left:50px;
+}
+
+#footer {
+    font-size:25px;
+}
+marquee {
+    color:white
+}
+#fr {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+strike {
+    background-color:salmon;
+}
+.ft {
+    font-size:20px;
+}
+.ht {
+    background-color: white;
+}
+.hea {
+    background-color: white;
+}
+input{
+float: 30px;
+}
+
+
+#ju :hover {
+    color:blue;
+
+}
+#ty {
+    border: 2px solid black;
+    height:23px;
+    width:410px;
+    display:inline-block;
+
+}
+.header-2{
+    background:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:2rem 9%;
+    
+    position: relative;
+  }
+  #menu-bar{
+    font-size: 3rem;
+    border-radius: .5rem;
+    border:.1rem solid var(--black);
+    padding:.8rem 1.5rem;
+    color:var(--black);
+    cursor: pointer;
+    display: none;
+  }
+  .header-2.active{
+    position: fixed;
+    top:0; left: 0; right:0;
+    z-index: 10000;
+  }
+  
+  .header-2 .navbar a{
+    padding:.5rem 1.5rem;
+    font-size: 2rem;
+    border-radius: .5rem;
+    color:var(--black);
+  }
+  
+  .header-2 .navbar a:hover{
+    background:pink;
+    color:#fff;
+    transform:scale(1.5);
+      z-index:2;
+  }
+  .signin :hover {
+    background:pink;
+    color:#fff;
+    transform:scale(1.5);
+      z-index:2;
+
+  }
+  .signin {
+    border-radius: .5rem;
+  }
+  
+  
+  
+  
+  .header-1{
+    background:#eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:2rem 9%;
+  }
+  #subs {
+      height:100px;
+      width:100%;
+  }
+  .pop:hover {
+      transform:scale(1.2);
+      z-index:2;
+  }
+  .fi:hover {
+    transform:scale(1.1);
+    z-index:2;
+}

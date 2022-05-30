@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>type 1</title>
+    <link rel="stylesheet" type="text/css" href="project style.css">
+</head>
+<body>
+
+    <h1 style="font-style: italic; text-decoration: underline; background-color: salmon; font-size: 3rem;">Foodgrains,Oils,Nuts & Masalas</h1>
+<br>
+<br>
+<input type="text" required="Enter the item you want to search" placeholder="Enter the item you want to search">
+<button type="submit" size="8
+0px">search</button>
+<div id="flex" style="background-color: white;">
+    <div id="flex1">
+        <img src="https://m.media-amazon.com/images/I/81ZZDWDpXqL._AC_UL480_QL65_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;"> Aashirvaad Atta with Multigrains, 5kg</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS.274</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/61fV8xIUXlL._AC_UL480_FMwebp_QL65_.jpg" height="165" width="180">
+        <p align="center"><h2 style="color: indigo;">Fortune Chakki Fresh Atta, 5kg,</h2></p>
+        <h2 style="color: indigo; margin: 2px;"> MRP &nbsp;RS.185</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/71uWsdpv0ZL._AC_UL480_FMwebp_QL65_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Pillsbury Chakki Fresh 100% Atta</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 224.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/71hFwEGKyZL._AC_UL480_QL65_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Tata Sampann  Arhar Dal, 1kg</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 184.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+    
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://images-eu.ssl-images-amazon.com/images/I/81ifKGyNwNL._AC_UL160_SR160,160_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Amazon Brand - Vedaka Premium Chitra Rajma, 1kg</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 119.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://images-eu.ssl-images-amazon.com/images/I/81aELJT9sxL._AC_UL160_SR160,160_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Amazon Brand - Vedaka Premium Chhole, 1 kg</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 150.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/51GyUUKe-0L._AC_UL480_FMwebp_QL65_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Fortune Soyabean Oil Heart's Best, 1L Pouch</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 175.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/41fAkhF7UtL.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Fortune Rice Bran Health Oil, Cooking Oil, 5l Jar</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 710.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div>
+    <div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/91FWmjGA+XL._SL1500_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Walnuts, 250g</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 250.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div><div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/91+eiho2MKL._SL1500_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Cashews ,250g</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 250.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div><div id="flex1" style="background-color: white;">
+        <img src="https://m.media-amazon.com/images/I/91stmUWKlfL._SL1500_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Raisins, 250g</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 200.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div><div id="flex1" style="background-color: white;">
+        <img src="https://images-eu.ssl-images-amazon.com/images/I/81aELJT9sxL._AC_UL160_SR160,160_.jpg" height="165" width="180">
+        <p align="center"> <h2 style="color: indigo;">Amazon Brand - Vedaka Premium Chhole, 1 kg</h2></p>
+        <h2 style="color: indigo; margin:2px;"> MRP &nbsp;RS. 150.00</h2>
+        &emsp; &emsp;<a href=""><input type="button" value="Add to cart" class="button"></a>
+        &emsp; &emsp;<a href=""><input type="button" value="Buy Now" class="button"></a>
+
+
+    </div>
+   
+</div>
+</body>
+
+</html>

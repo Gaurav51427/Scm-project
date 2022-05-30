@@ -1,0 +1,52 @@
+body {
+    margin:0px ;
+   
+}
+#body-header {
+    background-image: url('https://www.macbookproslow.com/wp-content/uploads/macbook-pro-mouse.png');
+    background-size:cover;
+    opacity:0.8;
+    height:65vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.horizontal_list {
+    list-style: none;
+    padding-left: 0px;
+    text-align: center;
+}
+.horizontal_list li{
+    display: inline-block;
+    margin: 0px 8px 8px 0px ;
+    font-size: 1.5rem;
+
+}
+.horizontal_list li a {
+    text-decoration: none;
+    color:white;
+    transition:   color 0.6s, border-bottom 5s;
+}
+.horizontal_list li a:hover {
+    color:lightgrey;
+    border-bottom: 1px solid white;
+    
+}
+main {
+    
+    width:60%;
+    display:inline-block;
+    background-position: center;
+}
+aside {
+    display:inline-block;
+    
+    vertical-align: middle;
+    width:10%;
+
+}
+#fg {
+    width:10%;
+    float:left;
+
+}
